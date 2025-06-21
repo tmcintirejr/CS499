@@ -23,7 +23,7 @@ A walkthrough of the original code and my planned enhancements across all three 
 ## 🧰 Software Design & Engineering
 
 **Narrative:**  
-➡️ [Read Design Narrative](narratives/design-narrative.md)
+➡️ [Read Design Narrative](narratives/design-narrative.docx)
 
 **Artifacts:**  
 - [Original Files](artifacts/original/)  
@@ -39,7 +39,7 @@ A walkthrough of the original code and my planned enhancements across all three 
 ## 🧮 Algorithms & Data Structures
 
 **Narrative:**  
-➡️ [Read Structure Narrative](narratives/structure-narrative.md)
+➡️ [Read Structure Narrative](narratives/structure-narrative.docx)
 
 **Artifacts:**  
 - [Enhanced Structure Files](artifacts/structure/)
@@ -54,7 +54,7 @@ A walkthrough of the original code and my planned enhancements across all three 
 ## 🗃️ Database Integration
 
 **Narrative:**  
-➡️ [Read Database Narrative](narratives/database-narrative.md)
+➡️ [Read Database Narrative](narratives/database-narrative.docx)
 
 **Artifacts:**  
 - [Enhanced Database Files](artifacts/database/)
