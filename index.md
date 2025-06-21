@@ -8,25 +8,15 @@ Welcome to my professional ePortfolio for the **SNHU Computer Science Capstone**
 
 ---
 
-## 🔗 Navigation
-
-- [🎥 Code Review Video](#code-review-video)
-- [📄 Professional Self-Assessment](narratives/self-assessment.md)
-- [🧰 Software Design & Engineering](#software-design--engineering)
-- [🧮 Algorithms & Data Structures](#algorithms--data-structures)
-- [🗃️ Database Integration](#database-integration)
+## 📄 Professional Self-Assessment
+Reflection on my journey through the Computer Science program.  
+➡️ [Read Self-Assessment](narratives/self-assessment.md)
 
 ---
 
 ## 🎥 Code Review Video
 A walkthrough of the original code and my planned enhancements across all three focus areas.  
 ➡️ [Watch on YouTube](https://youtu.be/6r4VogDAAPQ)
-
----
-
-## 📄 Professional Self-Assessment
-Reflection on my journey through the Computer Science program.  
-➡️ [Read Self-Assessment](narratives/self-assessment.md)
 
 ---
 
@@ -76,21 +66,10 @@ Reflection on my journey through the Computer Science program.
 
 ---
 
-## 📂 Full Project Files
-
-Explore each folder for complete Java source files and enhancements:
-
-- [`/artifacts/original`](artifacts/original/) — Original baseline project  
-- [`/artifacts/design`](artifacts/design/) — Software engineering enhancements  
-- [`/artifacts/structure`](artifacts/structure/) — Data structure optimizations  
-- [`/artifacts/database`](artifacts/database/) — Database integration
-
----
-
 ## 🧭 Contact
 
 Interested in discussing this work or collaborating?  
-📧 Email: [Your Email Here]  
+📧 Email: [tlmcintirejr@yahoo.com]  
 🔗 GitHub: [https://github.com/tmcintirejr](https://github.com/tmcintirejr)
 
 ---
