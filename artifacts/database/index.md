@@ -4,4 +4,4 @@ This folder contains enhanced files demonstrating database integration using SQL
 
 - [Driver.java](Driver.java)
 - [DatabaseUtility.java](DatabaseUtility.java)
-- [sqlite-jdbc.jar](lib/sqlite-jdbc.jar)
+- [sqlite-jdbc.jar](../lib/sqlite-jdbc.jar)
