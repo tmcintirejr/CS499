@@ -9,57 +9,69 @@ title: "Tim McIntire's CS 499 ePortfolio"
   <img src="https://raw.githubusercontent.com/tmcintirejr/CS499/main/photos/profile.jpg" alt="Tim McIntire" width="200">
 </p>
 
-# 🎓 Tim McIntire’s ePortfolio
+## 👋 Greetings!
 
-Welcome to my professional ePortfolio for the **SNHU Computer Science Capstone**. This portfolio showcases my growth, skills, and achievements in the field of computer science. It includes enhanced project artifacts across the three major areas of study and my professional self-assessment.
+I’m **Tim McIntire**—U.S. Army veteran, long-time Fire Medic on Alabama’s Gulf Coast, and freshly minted B.S. Computer Science graduate from Southern New Hampshire University.  
+Over the last three years I have transformed a lifelong fascination with technology into demonstrable expertise in software engineering, full-stack development, and secure cloud architectures.  
+This self-assessment introduces the strengths, values, and career goals showcased throughout the ePortfolio that follows.
 
 ---
 
-## 📄 Professional Self-Assessment
-*Timothy McIntire – CS 499 Capstone – Southern New Hampshire University*
+### 🛠️ 1. Coursework, ePortfolio & Professional Growth
 
-As I complete my Bachelor’s in Computer Science at Southern New Hampshire University, the development of this ePortfolio has given me a powerful opportunity to reflect on how far I’ve come and to showcase my readiness to enter the field as a competent, values-driven, and adaptable professional. The coursework, projects, and capstone experiences throughout this program have allowed me to apply technical knowledge in ways that emphasize my strengths: modular software design, secure database integration, performance optimization, and thoughtful, user-centered programming practices.
+Developing this ePortfolio forced me to revisit, refactor, and *defend* every major project in the CS program—​turning each assignment into a polished artifact that quantifies my readiness for industry.
 
-## Professional Growth and Career Alignment
+| Strength | Coursework Example | ePortfolio Proof |
+|----------|--------------------|------------------|
+| **Modular OOP Design** | *IT-145* rescue-animal project → redesigned with inheritance & interfaces | “Software Design & Engineering” enhancement |
+| **Algorithmic Thinking** | *CS-300* & *CS-305*: optimized sort/search labs | HashMap refactor in “Algorithms & Data Structures” |
+| **Secure Data Persistence** | *CS-340* & *CS-465/470* full-stack capstones | JDBC + SQLite integration in “Database Integration” |
 
-Throughout the program, I’ve sharpened my ability to solve real-world problems using scalable software solutions. My goal has always been to transition into a role that not only values clean architecture and efficient code but also requires strong analytical thinking and a collaborative spirit. Each course and project—particularly this capstone—has further solidified my passion for software engineering and backend development. I’ve learned that the smallest design choices, such as how to structure an ID system or refactor duplicated logic, can have wide-reaching effects on code clarity and maintainability.
+Together these artifacts form a single, iteratively improved codebase—​mirroring how real teams evolve production software over time.
 
-## Technical Competency and Key Skills
+---
 
-My coursework and professional development have touched on all the critical domains of computer science:
+### 🤝 2. Key Professional Competencies
 
-- **Collaborating in a Team Environment**  
-  Though this capstone was completed independently, my academic journey has required regular group collaboration. In earlier courses like IT 200 and CS 250, I partnered with classmates to create class diagrams, document shared codebases, and present project outcomes. These experiences taught me to respect diverse workflows, communicate ideas clearly, and maintain version control across multiple developers.
+| Domain | Demonstrated Ability |
+|--------|----------------------|
+| **Collaborating in Team Environments** | Led Git workflows and peer-code-reviews in *CS-250* & *CS-255*; comfortable with Agile ceremonies and Jira/GitHub Projects. |
+| **Communicating With Stakeholders (CO 2)** | Converted technical specs into UML, sprint demos, and client-ready slide decks; my capstone code-review video translates refactor decisions for non-developers. |
+| **Data Structures & Algorithms** | Reduced lookup time from *O(n)* to *O(1)* by migrating ArrayLists → HashMaps; implemented BSTs, recursion, and dynamic programming in course labs. |
+| **Software Engineering & Databases** | Full-stack MERN app (*CS-465/470*), RESTful APIs, and secure JDBC data layer; emphasize SOLID principles, unit tests, and CI/CD. |
+| **Security Mindset** | Used OWASP guidelines in *CS-305 Software Security*; parameterized SQL, input validation, and exception handling protect the rescue-animal system from injection and logic-bomb exploits. |
 
-- **Communicating with Stakeholders**  
-  I’ve written technical documentation, presented UML diagrams, and translated user requirements into implementation plans. This ability to bridge technical and non-technical audiences is something I continued to hone in the capstone, especially when planning enhancements that preserved the original application structure for easier review and grading.
+---
 
-- **Data Structures and Algorithms**  
-  I demonstrated algorithmic thinking in this capstone by replacing linear searches with `HashMap` lookups, reducing time complexity from O(n) to O(1). In earlier courses like CS 300 and CS 405, I implemented stack/queue structures, recursion, and binary search trees, giving me the foundational understanding to make strategic choices when optimizing software.
+### 🎯 3. Career Aspirations & Values
 
-- **Software Engineering and Database**  
-  I have extensive experience in modular design, object-oriented programming, and persistent data storage. In the capstone, I refactored classes into abstract and inheritance-based structures, replaced duplicated logic with reusable methods, and integrated a secure SQLite database using the JDBC API.
+I aim to **transition into a Software Engineer or Full-Stack Developer** role at organizations that value:
 
-- **Security**  
-  In multiple projects, including this one, I prioritized input validation, data integrity, and secure database handling. I used parameterized queries to protect against SQL injection, structured exception handling for reliable execution, and carefully separated database logic from core functionality to reduce vulnerabilities.
+* **Public-service impact** (e.g., first-responder tech, smart-city infrastructure, or GovTech vendors like *Hexagon* or *Tyler Technologies*).  
+* **Cloud-native innovation**—I am pursuing *AWS Solutions Architect* and *Microsoft Azure Developer* certifications to complement the cloud work completed in CS-470.  
+* **Responsible AI**—my final elective (*CS-370 Current/Emerging Trends*) ignited an interest in pairing generative-AI endpoints with secure backend services.
 
-## Portfolio Integration and Artifact Summary
+---
 
-This portfolio consists of three major enhancements to a single Java application, originally developed in IT 145. Together, these enhancements showcase the evolution of the project—and of my skillset—across three major domains:
+### 🔗 4. How the Artifacts Fit Together
 
-1. **Software Design & Engineering**  
-   I refactored the codebase to support modular OOP principles, added support for six animal kingdoms, and created a scalable ID system.
+1. **Software Design & Engineering** – establishes a clean, scalable OOP foundation.  
+2. **Algorithms & Data Structures** – boosts performance without altering external behavior.  
+3. **Database Integration** – adds persistent, secure storage, completing the full data-flow.
 
-2. **Algorithms & Data Structures**  
-   I replaced inefficient `ArrayList` searches with `HashMap` collections for constant-time lookups.
+Because these enhancements build on the *same* codebase, reviewers can trace a clear, incremental evolution—exactly how professional teams iterate in production.
 
-3. **Database Integration**  
-   I created a dedicated utility class to integrate SQLite, enabling persistent animal records across sessions with secure, parameterized database interactions.
+---
 
-Together, these artifacts highlight the full range of my abilities—from architectural planning to algorithmic efficiency to real-world database implementation—and serve as a strong introduction to my work as a computer scientist. I look forward to applying these skills in a professional setting, whether in software engineering, backend systems, or technical solutions architecture.
+### 📈 5. Ready for Industry
 
-Reflection on my journey through the Computer Science program.  
-➡️ [Read Self-Assessment](narratives/self-assessment.md)
+Combining a decade of high-stakes emergency experience with rigorous computer-science training, I bring:
+
+* Calm, mission-focused teamwork under pressure.  
+* A proven habit of **continuous refactor** and **security-first** thinking.  
+* A portfolio that *quantifiably* demonstrates my ability to design, optimize, and secure real software—ready to add value on day one.
+
+I’m excited to apply these skills as a **software engineer who never stops learning and always delivers dependable code that serves people first.**
 
 ---
 
