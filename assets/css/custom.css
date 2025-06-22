@@ -1,9 +1,0 @@
-body {
-  background: url("https://raw.githubusercontent.com/tmcintirejr/CS499/main/photos/background.png") no-repeat center center fixed;
-  background-size: cover;
-  color: #ffffff; /* Adjust text color for readability */
-}
-
-h1, h2, h3, h4, h5, h6, p, a {
-  color: #ffffff; /* Ensures all headings and links are visible */
-}
