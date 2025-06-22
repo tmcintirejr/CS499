@@ -6,7 +6,15 @@
 
 ## About Me
 
-Hi, I’m Tim McIntire. I’m a U.S. Army veteran and career firefighter who recently completed a Computer Science degree at SNHU with a focus in software development and network engineering.
+## About Me
+
+**Greetings!** I’m **Tim McIntire**—a U.S. Army veteran and career **Fire Medic** with 10 years of frontline service along Alabama’s beautiful Gulf Coast. Outside the station, I’m a lifelong tech-enthusiast who just completed a **B.S. in Computer Science** at SNHU, adding to an earlier **A.S. in Computer Animation** from Full Sail University.
+
+My day-to-day work demands calm problem-solving under pressure, clear communication, and rock-solid teamwork—traits I now channel into **software development, full-stack engineering, and network design**. I’m a creative builder at heart, overflowing with ideas for mobile apps that make life safer, smarter, and more connected.
+
+Off duty, you’ll find me with my amazing wife of 11 years and our three energetic sons—usually tinkering with side projects or coaching the boys through their first lines of code.
+
+If you’re looking for a developer who pairs disciplined service with imaginative thinking, let’s connect!
 
 <!-- TO DO: Add more details about what you're currently learning -->
 
