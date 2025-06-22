@@ -2,6 +2,10 @@
 title: "Tim McIntire's CS 499 ePortfolio"
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tmcintirejr/CS499/main/photos/profile.jpg" alt="Tim McIntire" width="200">
+</p>
+
 # 🎓 Tim McIntire’s CS 499 ePortfolio
 
 Welcome to my professional ePortfolio for the **SNHU Computer Science Capstone**. This portfolio showcases my growth, skills, and achievements in the field of computer science. It includes enhanced project artifacts across the three major areas of study and my professional self-assessment.
