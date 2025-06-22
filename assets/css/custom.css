@@ -1,16 +1,32 @@
 body {
-  background: url("/CS499/photos/background.png") no-repeat center center fixed;
+  background-image: url("photos/background.jpg");
   background-size: cover;
-  color: #ffffff;
-  font-size: 20px;
-  line-height: 1.6;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
-  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
   padding: 2rem;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: black; /* <-- Changed from white to black */
+  line-height: 1.6;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  color: black; /* Ensure all headings are black */
+}
+
 a {
-  color: #aad4ff;
+  color: #004080; /* Optional: darker blue for links */
+  text-decoration: none;
 }
+
 a:hover {
-  color: #ffffff;
+  text-decoration: underline;
+}
+
+code {
+  background-color: #f5f5f5;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: monospace;
 }
