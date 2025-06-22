@@ -1,3 +1,28 @@
+<style>
+  body {
+    background-image: url('https://images.unsplash.com/photo-1555949963-aa79dcee981d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+  }
+
+  main {
+    background-color: rgba(0, 0, 0, 0.75);
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  a {
+    color: #6ec1e4;
+  }
+</style>
+
+<main>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/tmcintirejr/CS499/main/photos/profile.jpg" alt="Tim McIntire" width="200">
 </p>
@@ -116,4 +141,6 @@ Interested in discussing this work or collaborating?
 
 ---
 
-_© 2025 Tim McIntire. Built using [GitHub Pages](https://pages.github.com) and Markdown._
+_© 2025 Tim McIntire. Built using [GitHub Pages](https://pages.github.com) and Markdown.
+
+</main>_
