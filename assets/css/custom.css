@@ -1,5 +1,5 @@
 body {
-  background-image: url("photos/background.jpg");
+  background-image: url("../photos/background.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -7,16 +7,16 @@ body {
   padding: 2rem;
   font-family: Arial, sans-serif;
   font-size: 18px;
-  color: black; /* <-- Changed from white to black */
+  color: black;
   line-height: 1.6;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: black; /* Ensure all headings are black */
+  color: black;
 }
 
 a {
-  color: #004080; /* Optional: darker blue for links */
+  color: #004080;
   text-decoration: none;
 }
 
