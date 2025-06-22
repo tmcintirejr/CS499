@@ -1,132 +1,42 @@
-<!-- ────────────────────────────────────────────────────────────────────────── -->
-<!-- Small page-scope CSS: hides repo title banner & applies clean layout     -->
-<style>
-/* Hide automatic “CS499” heading that GitHub Pages injects */
-header h1 { display:none !important; }
+🎓 Tim McIntire’s ePortfolio
+Welcome to my professional ePortfolio for the SNHU Computer Science Capstone. This portfolio showcases my growth, skills, and achievements in the field of computer science. It includes enhanced project artifacts across the three major areas of study and my professional self-assessment.
 
-/* Global settings */
-body { max-width: 900px; margin: 0 auto; font-family: system-ui, sans-serif; line-height: 1.55; }
+📄 Professional Self-Assessment
+Timothy McIntire – CS 499 Capstone – Southern New Hampshire University
 
-/* Navbar */
-.navbar { text-align:center; margin: 0 0 24px 0; font-size: 1rem; }
-.navbar a { margin: 0 8px; text-decoration:none; color:#0366d6; }
-.navbar a:hover { text-decoration:underline; }
+As I complete my Bachelor’s in Computer Science at Southern New Hampshire University, the development of this ePortfolio has given me a powerful opportunity to reflect on how far I’ve come and to showcase my readiness to enter the field as a competent, values-driven, and adaptable professional. The coursework, projects, and capstone experiences throughout this program have allowed me to apply technical knowledge in ways that emphasize my strengths: modular software design, secure database integration, performance optimization, and thoughtful, user-centered programming practices.
 
-/* Section dividers */
-section { margin-bottom: 64px; }
-section h2 { margin-top: 0; }
+Professional Growth and Career Alignment
+Throughout the program, I’ve sharpened my ability to solve real-world problems using scalable software solutions. My goal has always been to transition into a role that not only values clean architecture and efficient code but also requires strong analytical thinking and a collaborative spirit. Each course and project—particularly this capstone—has further solidified my passion for software engineering and backend development. I’ve learned that the smallest design choices, such as how to structure an ID system or refactor duplicated logic, can have wide-reaching effects on code clarity and maintainability.
 
-/* Button-style links */
-.btn { display:inline-block; padding:6px 12px; border:1px solid #0366d6; border-radius:4px;
-       color:#0366d6; text-decoration:none; font-size:.95rem; }
-.btn:hover { background:#0366d6; color:#fff; }
-</style>
+Technical Competency and Key Skills
+My coursework and professional development have touched on all the critical domains of computer science:
 
-<!-- ────────────────────────────────────────────────────────────────────────── -->
-<!--  Hero / profile photo  -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tmcintirejr/CS499/main/photos/profile.jpg"
-       alt="Tim McIntire" width="180" style="border-radius:50%; box-shadow:0 2px 6px rgba(0,0,0,.15)">
-</p>
+Collaborating in a Team Environment
+Though this capstone was completed independently, my academic journey has required regular group collaboration. In earlier courses like IT 200 and CS 250, I partnered with classmates to create class diagrams, document shared codebases, and present project outcomes. These experiences taught me to respect diverse workflows, communicate ideas clearly, and maintain version control across multiple developers.
 
-<h1 align="center">Tim McIntire — CS 499 ePortfolio</h1>
+Communicating with Stakeholders
+I’ve written technical documentation, presented UML diagrams, and translated user requirements into implementation plans. This ability to bridge technical and non-technical audiences is something I continued to hone in the capstone, especially when planning enhancements that preserved the original application structure for easier review and grading.
 
-<div class="navbar">
-  <a href="#home">Home</a> •
-  <a href="#design">Design</a> •
-  <a href="#structure">Structure</a> •
-  <a href="#database">Database</a> •
-  <a href="https://youtu.be/6r4VogDAAPQ" target="_blank">Code Review ▶︎</a>
-</div>
+Data Structures and Algorithms
+I demonstrated algorithmic thinking in this capstone by replacing linear searches with HashMap lookups, reducing time complexity from O(n) to O(1). In earlier courses like CS 300 and CS 405, I implemented stack/queue structures, recursion, and binary search trees, giving me the foundational understanding to make strategic choices when optimizing software.
 
----
+Software Engineering and Database
+I have extensive experience in modular design, object-oriented programming, and persistent data storage. In the capstone, I refactored classes into abstract and inheritance-based structures, replaced duplicated logic with reusable methods, and integrated a secure SQLite database using the JDBC API.
 
-<a id="home"></a>
-<section>
+Security
+In multiple projects, including this one, I prioritized input validation, data integrity, and secure database handling. I used parameterized queries to protect against SQL injection, structured exception handling for reliable execution, and carefully separated database logic from core functionality to reduce vulnerabilities.
 
-### 👋 Welcome
+Portfolio Integration and Artifact Summary
+This portfolio consists of three major enhancements to a single Java application, originally developed in IT 145. Together, these enhancements showcase the evolution of the project—and of my skillset—across three major domains:
 
-This portfolio showcases the **capstone enhancements** I completed while finishing my B.S. in Computer Science at SNHU. Across three milestones I refactored, optimized, and secured a Java application for the fictional rescue organization **Grazioso Salvare**.  
+Software Design & Engineering
+I refactored the codebase to support modular OOP principles, added support for six animal kingdoms, and created a scalable ID system.
 
-*Browse with the navigation above or start with the professional self-assessment below.*
+Algorithms & Data Structures
+I replaced inefficient ArrayList searches with HashMap collections for constant-time lookups.
 
-<p><a class="btn" href="narratives/self-assessment.md" target="_blank">Read Self-Assessment →</a></p>
+Database Integration
+I created a dedicated utility class to integrate SQLite, enabling persistent animal records across sessions with secure, parameterized database interactions.
 
-</section>
-
----
-
-<a id="design"></a>
-<section>
-
-## 🧰 Milestone 2 – Software Design & Engineering
-
-**Narrative (PDF):** <a href="narratives/design-narrative.docx" target="_blank">Read Design Narrative →</a>  
-
-**Artifacts**
-
-* [Original Source Files](artifacts/original/)  
-* [Enhanced Design Files](artifacts/design/)  
-
-**Key Improvements**
-
-* Refactored *RescueAnimal* into an **abstract superclass**; added *Adoptable* interface  
-* Introduced six new kingdom classes (Mammal, Bird, Reptile, Amphibian, Fish, Other)  
-* Implemented input validation & eliminated duplicate intake logic  
-
-</section>
-
----
-
-<a id="structure"></a>
-<section>
-
-## 🧮 Milestone 3 – Algorithms & Data Structures
-
-**Narrative (PDF):** <a href="narratives/structure-narrative.docx" target="_blank">Read Structure Narrative →</a>  
-
-**Artifacts**
-
-* [Enhanced Structure Files](artifacts/structure/)  
-
-**Key Improvements**
-
-* Replaced `ArrayList` linear searches with **`HashMap` O(1)** look-ups  
-* Preserved menu flow while drastically cutting lookup time for large datasets  
-
-</section>
-
----
-
-<a id="database"></a>
-<section>
-
-## 🗄️ Milestone 4 – Database Integration & Security
-
-**Narrative (PDF):** <a href="narratives/database-narrative.docx" target="_blank">Read Database Narrative →</a>  
-
-**Artifacts**
-
-* [Enhanced Database Files](artifacts/database/)  
-* JDBC Driver: <a href="lib/sqlite-jdbc-3.45.3.0.jar" target="_blank">Download SQLite JAR</a>
-
-**Key Improvements**
-
-* Added **SQLite persistence** via a dedicated `DatabaseUtility.java` class  
-* Used **parameterized SQL** to prevent injection attacks (CO 5)  
-* Centralized DB access for easier maintenance & future scaling  
-
-</section>
-
----
-
-## 📫 Contact
-
-* 📧 tlmcintirejr@yahoo.com  
-* 🔗 <a href="https://github.com/tmcintirejr" target="_blank">github.com/tmcintirejr</a>
-
----
-
-<p align="center" style="font-size:.8rem">
-© 2025 Tim McIntire &nbsp;•&nbsp; Built with Markdown & GitHub Pages
-</p>
+Together, these artifacts highlight the full range of my abilities—from architectural planning to algorithmic efficiency to real-world database implementation—and serve as a strong introduction to my work as a computer scientist. I look forward to applying these skills in a professional setting, whether in software engineering, backend systems, or technical solutions architecture.
