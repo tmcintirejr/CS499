@@ -1,9 +1,35 @@
 body {
   background: url("https://raw.githubusercontent.com/tmcintirejr/CS499/main/photos/background.png") no-repeat center center fixed;
   background-size: cover;
-  color: #ffffff; /* Adjust text color for readability */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px; /* ⬅️ Enlarges base text */
+  line-height: 1.6; /* ⬅️ Improves spacing between lines */
+  color: #ffffff;
+  padding: 20px;
 }
 
-h1, h2, h3, h4, h5, h6, p, a {
-  color: #ffffff; /* Ensures all headings and links are visible */
+/* Make headers stand out more */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+  font-weight: bold;
+}
+
+/* Paragraphs and links */
+p, a, li {
+  color: #f0f0f0;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+
+/* Links hover state */
+a:hover {
+  color: #00ccff;
+  text-decoration: underline;
+}
+
+/* Add a semi-transparent background to major content */
+main, .container, .content {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 10px;
 }
