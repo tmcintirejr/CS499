@@ -1,34 +1,3 @@
-<style>
-  body {
-    background-image: url('https://raw.githubusercontent.com/akshat46/FlexBox-Website/master/assets/bg.jpg');
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-position: center;
-    color: white;
-    font-family: 'Segoe UI', sans-serif;
-  }
-
-  main {
-    background-color: rgba(0, 0, 0, 0.75);
-    padding: 2rem;
-    border-radius: 10px;
-    max-width: 950px;
-    margin: 0 auto;
-  }
-
-  a {
-    color: #6ec1e4;
-    text-decoration: none;
-  }
-
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
-
-<main>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/tmcintirejr/CS499/main/photos/profile.jpg" alt="Tim McIntire" width="200">
 </p>
@@ -148,5 +117,3 @@ Interested in discussing this work or collaborating?
 ---
 
 _© 2025 Tim McIntire. Built using [GitHub Pages](https://pages.github.com) and Markdown.
-
-</main>_
