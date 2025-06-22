@@ -123,4 +123,4 @@ Interested in discussing this work or collaborating?
 
 ---
 
-_© 2025 Tim McIntire. Built using [GitHub Pages](https://pages.github.com) and Markdown.
+© 2025 Tim McIntire. Built using [GitHub Pages](https://pages.github.com) and Markdown.
