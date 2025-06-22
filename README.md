@@ -6,8 +6,6 @@
 
 ## About Me
 
-## About Me
-
 **Greetings!** I’m **Tim McIntire**—a U.S. Army veteran and career **Fire Medic** with over 10 years of frontline service along Alabama’s beautiful Gulf Coast. Outside the station, I’m a lifelong tech-enthusiast who just completed a **B.S. in Computer Science** at SNHU, adding to an earlier **A.S. in Computer Animation** from Full Sail University.
 
 My day-to-day work demands calm problem-solving under pressure, clear communication, and rock-solid teamwork—traits I now channel into **software development, full-stack engineering, and network design**. I’m a creative builder at heart, overflowing with ideas for mobile apps that make life safer, smarter, and more connected.
