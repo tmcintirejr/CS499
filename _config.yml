@@ -1,0 +1,4 @@
+title: ""  # Optional: clears the title
+theme: jekyll-theme-cayman
+include:
+  - assets/css/style.css
