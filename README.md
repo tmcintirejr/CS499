@@ -23,5 +23,6 @@ Hi, I’m Tim McIntire. I’m a U.S. Army veteran and career firefighter who rec
 
 ---
 
-> "If we pull together and commit ourselves, then we can push through anything."  
-> — Mona the Octocat
+## 🎥 Code Review Video
+
+[![Watch the video](https://img.youtube.com/vi/6r4VogDAAPQ/0.jpg)](https://youtu.be/6r4VogDAAPQ)
