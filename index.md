@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Tim McIntire's CS 499 ePortfolio"
+---
+
+<link rel="stylesheet" href="/assets/css/custom.css" />
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/tmcintirejr/CS499/main/photos/profile.jpg" alt="Tim McIntire" width="200">
 </p>
