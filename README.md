@@ -14,6 +14,8 @@ Off duty, you’ll find me with my amazing wife of 11 years and our three energe
 
 If you’re looking for a developer who pairs disciplined service with imaginative thinking, let’s connect!
 
+🔗 **View My ePortfolio Website:** [tmcintirejr.github.io/CS499](https://tmcintirejr.github.io/CS499/)
+
 <details>
 <summary>My Top Skills</summary>
 
