@@ -1,23 +1,29 @@
 <style>
   body {
-    background-image: url('https://images.unsplash.com/photo-1555949963-aa79dcee981d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1950&q=80');
+    background-image: url('https://raw.githubusercontent.com/akshat46/FlexBox-Website/master/assets/bg.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     color: white;
+    font-family: 'Segoe UI', sans-serif;
   }
 
   main {
     background-color: rgba(0, 0, 0, 0.75);
     padding: 2rem;
     border-radius: 10px;
-    max-width: 900px;
+    max-width: 950px;
     margin: 0 auto;
   }
 
   a {
     color: #6ec1e4;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
   }
 </style>
 
