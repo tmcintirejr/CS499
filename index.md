@@ -1,3 +1,5 @@
+<div style="font-size: 20px; line-height: 1.6; font-family: Arial, sans-serif; color: #ffffff; text-shadow: 1px 1px 2px #000;">
+
 ---
 layout: default
 title: "Tim McIntire's CS 499 ePortfolio"
@@ -124,3 +126,5 @@ Interested in discussing this work or collaborating?
 ---
 
 _© 2025 Tim McIntire. Built using [GitHub Pages](https://pages.github.com) and Markdown.
+
+</div>
