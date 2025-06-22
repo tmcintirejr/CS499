@@ -17,61 +17,40 @@ This self-assessment introduces the strengths, values, and career goals showcase
 
 ---
 
-### 🛠️ 1. Coursework, ePortfolio & Professional Growth
+## 🛠️ Professional Self-Assessment  
 
-Developing this ePortfolio forced me to revisit, refactor, and *defend* every major project in the CS program—​turning each assignment into a polished artifact that quantifies my readiness for industry.
+### 1  Coursework, ePortfolio & Professional Growth  
+Building this ePortfolio around a single codebase—the **IT-145 “Grazioso Salvare” animal-rescue application**—forced me to iterate exactly the way production teams do: refactor, optimise, then persist data securely. Although every visible artifact comes from that project, each enhancement leverages concepts first mastered across the wider CS curriculum:  
 
-| Strength | Coursework Example | ePortfolio Proof |
-|----------|--------------------|------------------|
-| **Modular OOP Design** | *IT-145* rescue-animal project → redesigned with inheritance & interfaces | “Software Design & Engineering” enhancement |
-| **Algorithmic Thinking** | *CS-300* & *CS-305*: optimized sort/search labs | HashMap refactor in “Algorithms & Data Structures” |
-| **Secure Data Persistence** | *CS-340* & *CS-465/470* full-stack capstones | JDBC + SQLite integration in “Database Integration” |
+| Strength (learned in …) | How it appears in the capstone |
+|-------------------------|--------------------------------|
+| Modular OOP Design (*IT-145*, *CS-230*) | Abstract `RescueAnimal` superclass, kingdom subclasses, reusable intake logic |
+| Algorithmic Efficiency (*CS-300*, *CS-305*) | Swapped `ArrayList` linear scans for `HashMap` O(1) look-ups |
+| Secure Data Persistence (*CS-340*, *CS-470*) | JDBC + SQLite with parameterised queries and exception handling |
 
-Together these artifacts form a single, iteratively improved codebase—​mirroring how real teams evolve production software over time.
-
----
-
-### 🤝 2. Key Professional Competencies
+### 2  Key Professional Competencies  
 
 | Domain | Demonstrated Ability |
 |--------|----------------------|
-| **Collaborating in Team Environments** | Led Git workflows and peer-code-reviews in *CS-250* & *CS-255*; comfortable with Agile ceremonies and Jira/GitHub Projects. |
-| **Communicating With Stakeholders (CO 2)** | Converted technical specs into UML, sprint demos, and client-ready slide decks; my capstone code-review video translates refactor decisions for non-developers. |
-| **Data Structures & Algorithms** | Reduced lookup time from *O(n)* to *O(1)* by migrating ArrayLists → HashMaps; implemented BSTs, recursion, and dynamic programming in course labs. |
-| **Software Engineering & Databases** | Full-stack MERN app (*CS-465/470*), RESTful APIs, and secure JDBC data layer; emphasize SOLID principles, unit tests, and CI/CD. |
-| **Security Mindset** | Used OWASP guidelines in *CS-305 Software Security*; parameterized SQL, input validation, and exception handling protect the rescue-animal system from injection and logic-bomb exploits. |
+| **Collaborating in Team Environments** | Led Git workflows and peer reviews in *CS-250* & *CS-255*; comfortable with Agile boards and GitHub Projects. |
+| **Communicating With Stakeholders** | Produced UML diagrams, sprint demos, and the capstone code-review video that explains technical trade-offs to non-developers. |
+| **Data Structures & Algorithms** | Reduced search time from *O(n)* → *O(1)* using `HashMap`; earlier labs implemented recursion, BSTs, and dynamic programming. |
+| **Software Engineering & Database** | Refactored for SOLID design; added a secure SQLite layer that persists data across sessions. |
+| **Security Mindset** | Parameterised SQL, rigorous input validation, exception handling, and separation of concerns mitigate injection and logic attacks. |
 
----
+### 3  Career Aspirations & Values  
+I’m transitioning from 10+ years as a **Fire Medic** to a **Software/Full-Stack Developer** role—ideally with companies that serve public-safety or civic domains (e.g., **FirstDue**, emergency-services SaaS providers, or similar mission-driven teams). I value:  
 
-### 🎯 3. Career Aspirations & Values
+- Solutions that improve community safety  
+- Cloud-native, scalable architectures (studying for AWS/Azure certs)  
+- Ethical, explainable AI (foundational exposure in *CS-370*)  
 
-I aim to **transition into a Software Engineer or Full-Stack Developer** role at organizations that value:
+### 4  How the Three Enhancements Fit Together  
+1. **Software Design & Engineering** – establishes a clean, extensible OOP foundation.  
+2. **Algorithms & Data Structures** – boosts performance without altering external behaviour.  
+3. **Database Integration** – adds secure, persistent storage, completing the data-flow.  
 
-* **Public-service impact** (e.g., first-responder tech, smart-city infrastructure, or GovTech vendors like *Hexagon* or *Tyler Technologies*).  
-* **Cloud-native innovation**—I am pursuing *AWS Solutions Architect* and *Microsoft Azure Developer* certifications to complement the cloud work completed in CS-470.  
-* **Responsible AI**—my final elective (*CS-370 Current/Emerging Trends*) ignited an interest in pairing generative-AI endpoints with secure backend services.
-
----
-
-### 🔗 4. How the Artifacts Fit Together
-
-1. **Software Design & Engineering** – establishes a clean, scalable OOP foundation.  
-2. **Algorithms & Data Structures** – boosts performance without altering external behavior.  
-3. **Database Integration** – adds persistent, secure storage, completing the full data-flow.
-
-Because these enhancements build on the *same* codebase, reviewers can trace a clear, incremental evolution—exactly how professional teams iterate in production.
-
----
-
-### 📈 5. Ready for Industry
-
-Combining a decade of high-stakes emergency experience with rigorous computer-science training, I bring:
-
-* Calm, mission-focused teamwork under pressure.  
-* A proven habit of **continuous refactor** and **security-first** thinking.  
-* A portfolio that *quantifiably* demonstrates my ability to design, optimize, and secure real software—ready to add value on day one.
-
-I’m excited to apply these skills as a **software engineer who never stops learning and always delivers dependable code that serves people first.**
+By evolving *one* artifact through these stages, reviewers see a clear narrative of problem-solving: from architecture → efficiency → persistence—exactly the lifecycle of real-world software.
 
 ---
 
