@@ -11,9 +11,7 @@ title: "Tim McIntire's CS 499 ePortfolio"
 
 ## 👋 Greetings!
 
-I’m **Tim McIntire**—U.S. Army veteran, long-time Fire Medic on Alabama’s Gulf Coast, and freshly minted B.S. Computer Science graduate from Southern New Hampshire University.  
-Over the last three years I have transformed a lifelong fascination with technology into demonstrable expertise in software engineering, full-stack development, and secure cloud architectures.  
-This self-assessment introduces the strengths, values, and career goals showcased throughout the ePortfolio that follows.
+I’m **Tim McIntire**—U.S. Army veteran, long-time Fire Medic on Alabama’s Gulf Coast, and freshly minted B.S. Computer Science graduate from Southern New Hampshire University. Over the last three years I have transformed a lifelong fascination with technology into demonstrable expertise in software engineering, full-stack development, and secure cloud architectures. This self-assessment introduces the strengths, values, and career goals showcased throughout the ePortfolio that follows.
 
 ---
 
