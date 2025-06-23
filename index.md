@@ -18,7 +18,7 @@ I’m **Tim McIntire**—U.S. Army veteran, long-time Fire Medic on Alabama’s 
 ## 🛠️ Professional Self-Assessment  
 
 ### 1  Coursework, ePortfolio & Professional Growth  
-Building this ePortfolio around a single codebase—the **IT-145 “Grazioso Salvare” animal-rescue application**—forced me to iterate exactly the way production teams do: refactor, optimise, then persist data securely. Although every visible artifact comes from that project, each enhancement leverages concepts first mastered across the wider CS curriculum:  
+Building this ePortfolio around a single codebase—the **IT-145 “Grazioso Salvare” animal-rescue application**—forced me to iterate exactly the way production teams do: refactor, optimize, then persist data securely. Although every visible artifact comes from that project, each enhancement leverages concepts first mastered across the wider CS curriculum:  
 
 | Strength (learned in …) | How it appears in the capstone |
 |-------------------------|--------------------------------|
@@ -34,10 +34,10 @@ Building this ePortfolio around a single codebase—the **IT-145 “Grazioso Sal
 | **Communicating With Stakeholders** | Produced UML diagrams, sprint demos, and the capstone code-review video that explains technical trade-offs to non-developers. |
 | **Data Structures & Algorithms** | Reduced search time from *O(n)* → *O(1)* using `HashMap`; earlier labs implemented recursion, BSTs, and dynamic programming. |
 | **Software Engineering & Database** | Refactored for SOLID design; added a secure SQLite layer that persists data across sessions. |
-| **Security Mindset** | Parameterised SQL, rigorous input validation, exception handling, and separation of concerns mitigate injection and logic attacks. |
+| **Security Mindset** | Parameterized SQL, rigorous input validation, exception handling, and separation of concerns mitigate injection and logic attacks. |
 
 ### 3  Career Aspirations & Values  
-I’m transitioning from 10+ years as a **Fire Medic** to a **Software/Full-Stack Developer** role—ideally with companies that serve public-safety or civic domains (e.g., **FirstDue**, emergency-services SaaS providers, or similar mission-driven teams). I value:  
+I’m transitioning from 10+ years as a **Fire Medic** to a **Software/Full-Stack Developer** role—ideally with companies that serve public-safety or civic domains (**FirstDue**, emergency-services SaaS providers, or similar mission-driven teams). I value:  
 
 - Solutions that improve community safety  
 - Cloud-native, scalable architectures (studying for AWS/Azure certs)  
